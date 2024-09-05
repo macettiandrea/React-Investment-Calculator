@@ -40,7 +40,7 @@ This project features an investment calculator built with React. It allows users
 4. Run the app in development mode:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
