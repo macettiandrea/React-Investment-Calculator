@@ -19,10 +19,12 @@ This project features an investment calculator built with React. It allows users
 
 ## Installing Dependencies
 
+## Running the App
+
 1. Clone the repository to your local IDE using GitHub or the following command:
 
    ```bash
-   git clone https://github.com/your-username/react-investment-calculator.git
+   git clone https://github.com/tuo-username/react-investment-calculator.git
    ```
 
 2. Navigate into the project directory:
@@ -43,7 +45,9 @@ This project features an investment calculator built with React. It allows users
    npm run dev
    ```
 
-5. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+5. Open [http://localhost:5173](http://localhost:5173) to view the app in your browser.
+
+The page will automatically reload if you make edits to the code. You will also see any errors or warnings in the console.
 
 The page will automatically reload if you make edits to the code. You will also see any errors or warnings in the console.
 
